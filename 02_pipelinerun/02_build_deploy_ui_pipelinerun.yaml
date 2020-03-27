@@ -12,6 +12,6 @@ spec:
   - name: image
     resourceRef:
       name: ui-image
-  params:
-  - name: deployment-name
-    value: vote-ui
+  # params:
+  # - name: deployment-name
+  #   value: vote-ui
